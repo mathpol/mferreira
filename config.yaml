@@ -50,7 +50,7 @@ params:
       network: ''
       sharethis: no
       title: github
-      url: https://github.com/nickname
+      url: https://github.com/mathpol
     - footer: yes
       icon: fab fa-researchgate
       network: ''
