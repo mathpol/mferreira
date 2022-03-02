@@ -2,41 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mathpol.github.io/my-website/home/projects/</loc>
+    <loc>https://mathpol.github.io/mferreira/home/projects/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/home/recentworks/</loc>
+    <loc>https://mathpol.github.io/mferreira/home/recentworks/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/about/</loc>
-  </url><url>
-    <loc>https://mathpol.github.io/my-website/cv/cv/</loc>
+    <loc>https://mathpol.github.io/mferreira/about/</loc>
     <lastmod>2022-03-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/cv/</loc>
+    <loc>https://mathpol.github.io/mferreira/cv/cv/</loc>
     <lastmod>2022-03-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/</loc>
+    <loc>https://mathpol.github.io/mferreira/cv/</loc>
     <lastmod>2022-03-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/projects/</loc>
+    <loc>https://mathpol.github.io/mferreira/</loc>
     <lastmod>2022-03-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/projects/projects/</loc>
+    <loc>https://mathpol.github.io/mferreira/projects/</loc>
     <lastmod>2022-03-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/publications/postagem-publications/</loc>
+    <loc>https://mathpol.github.io/mferreira/projects/projects/</loc>
+    <lastmod>2022-03-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mathpol.github.io/mferreira/publications/postagem-publications/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/publications/</loc>
+    <loc>https://mathpol.github.io/mferreira/publications/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/home/projects/service2/</loc>
+    <loc>https://mathpol.github.io/mferreira/home/projects/service2/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/categories/</loc>
+    <loc>https://mathpol.github.io/mferreira/categories/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/home/</loc>
+    <loc>https://mathpol.github.io/mferreira/home/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/home/projects/service1/</loc>
+    <loc>https://mathpol.github.io/mferreira/home/projects/service1/</loc>
   </url><url>
-    <loc>https://mathpol.github.io/my-website/tags/</loc>
+    <loc>https://mathpol.github.io/mferreira/tags/</loc>
   </url>
 </urlset>
