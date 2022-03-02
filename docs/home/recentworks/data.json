@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "name": "O hábito de frequentar cultos como mecanismo de mobilização eleitoral",
+        "image": "images/rbcp.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Scielo",
+                "url": "https://www.scielo.br/j/rbcpol/a/fWvcZ49qvhjrpB9dNBK6sxB/?lang=pt"
+            },
+            {
+                "name": "Researchgate",
+                "url": "#"
+            }
+        ]
+    },
+    
+    
+    {
+        "id": 0,
+        "name": "E depois do fim? transições políticas na crise dad emocracia contemporânea",
+        "image": "images/contemporanea.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Revista Contemporânea",
+                "url": "https://www.contemporanea.ufscar.br/index.php/contemporanea"
+            },
+            {
+                "name": "Researchgate",
+                "url": "#"
+            }
+        ]
+    }, 
+    
+    {
+        "id": 0,
+        "name": "The Symbolic Construction of a Messiah",
+        "image": "images/when-pol-talk.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com.br/When-Politicians-Talk-Cultural-Dynamics/dp/9811635781"
+            },
+            {
+                "name": "Researchgate",
+                "url": "https://www.researchgate.net/publication/354305695_The_Symbolic_Construction_of_a_Messiah_Jair_Bolsonaro's_Public_Christian_Discourse"
+            }
+        ]
+    }
+
+]

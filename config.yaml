@@ -1,0 +1,81 @@
+baseURL: "https://mathpol.github.io/mferreira/"
+languageCode: en
+title: Matheus Ferreira
+theme: hugo-initio
+params:
+  DateForm: March 01, 2022
+  address: Brazil
+  author: Matheus Ferreira
+  avatar: images/matheus.jpeg
+  avatarclass: circle
+  background: ''
+  banner: images/banner.png
+  description: Political Scientist . Data Analyist . Researcher
+  disqus:
+    site: 
+  email: ferreira.dcp@gmail.com
+  favicon: images/gt_favicon.png
+  google:
+    analytics:
+      trackerID:
+  name: Matheus Ferreira
+  phone: 
+  sharethis:
+    custom: yes
+    property:
+  showClients: no
+  showDownloads: yes
+  showFooterContact: no
+  showFooterFollowMe: yes
+  showFooterFormWidget: no
+  showFooterTextWidget: no
+  showRecentWorks: yes
+  showServices: yes
+  showSubheader: yes
+  social:
+    - footer: yes
+      icon: fab fa-twitter-square
+      network: twitter
+      sharethis: yes
+      title: twitter
+      url: https://twitter.com/matferreira19
+    - footer: yes
+      icon: fab fa-linkedin
+      network: linkedin
+      sharethis: yes
+      title: linkedin
+      url: https://www.linkedin.com/in/matheus-ferreira-20417916/
+    - footer: yes
+      icon: fab fa-github
+      network: ''
+      sharethis: no
+      title: github
+      url: https://github.com/nickname
+    - footer: yes
+      icon: fab fa-researchgate
+      network: ''
+      sharethis: no
+      title: researchgate
+      url: https://www.researchgate.net/profile/Matheus-Ferreira-44
+    - footer: no
+      icon: fas fa-envelope-square
+      network: email
+      sharethis: yes
+      title: email
+      url: mailto:ferreira.dcp@gmail.com
+  year: 2021
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 1
+    - name: publications
+      url: /publications/
+      weight: 2
+    - name: projects
+      url: /projects/
+      weight: 3
+    - name: cv
+      url: /cv/
+      weight: 4
+
