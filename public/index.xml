@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Ferreira</title>
+    <link>https://mathpol.github.io/mferreira/</link>
+    <description>Recent content on Matheus Ferreira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Mar 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://mathpol.github.io/mferreira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://mathpol.github.io/mferreira/about/</link>
+      <pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/about/</guid>
+      <description>Ph.D. candidate in Political Science at UFMG and researcher at the Center for the Study of Political Behavior (CECOMP). Data Scientist at ODDSPOINTER. Intern researcher at the Public Policies Department at Fundação João Pinheiro (FJP). He works in the Public Opinion, Political Behavior, Public Policy, and Education research fields, using quantitative and qualitative methodologies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathpol.github.io/mferreira/cv/cv/</link>
+      <pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/cv/cv/</guid>
+      <description>CV Download
+Lattes (CNPQ) Link</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mathpol.github.io/mferreira/projects/projects/</link>
+      <pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/projects/projects/</guid>
+      <description>Electoral poll aggregator A poll aggregator is a great tool for anyone who wants to follow trends in voting intentions. Based on surveys produced by several institutes, we estimated voting intentions by assigning weights to the institutes, based on their sampling strategies and proximity to election day.
+Website
+Brazilian Open Science Training (BOST) Brazilian Open Science Training (BOST) was created with the aim of presenting principles and practices of open and transparent research, in Portuguese, inspired by the Training in Transparency and Reproducibility (RT2) offered by the Berkeley Initiative in the Social Science (BITSS).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathpol.github.io/mferreira/publications/postagem-publications/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/publications/postagem-publications/</guid>
+      <description>Published 1. FERREIRA, Matheus; PACCELLI, Gustavo. E depois do fim? Transições políticas na crise da democracia contemporânea. Contemporânea-Revista de Sociologia da UFSCar, v. 11, n. 2, 2021.
+2. TAMAKI, Eduardo Ryô; MENDONÇA, Ricardo Fabrino; FERREIRA, Matheus Gomes Mendonça. The Symbolic Construction of a Messiah: Jair Bolsonaro’s Public, Christian Discourse. In: When Politicians Talk. Springer, Singapore, 2021. p. 73-89.
+3. FERREIRA, Matheus Gomes Mendonça; FUKS, Mario. O hábito de frequentar cultos como mecanismo de mobilização eleitoral: o voto evangélico em Bolsonaro em 20183.</description>
+    </item>
+    
+    <item>
+      <title>Brazilian Open Science Training(BOST)</title>
+      <link>https://mathpol.github.io/mferreira/home/projects/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/home/projects/service2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mathpol.github.io/bost/&#34;&gt;Brazilian training in Transparency and Reproducibility&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. dissertation</title>
+      <link>https://mathpol.github.io/mferreira/home/projects/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathpol.github.io/mferreira/home/projects/service1/</guid>
+      <description>&lt;p&gt;My doctoral dissertation aims to analyze the electoral behavior of evangelicals in the 2018 elections in Brazil. My scope is on the role played by religious leaders during the first round vote. Started in 2019.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
