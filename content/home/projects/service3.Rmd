@@ -1,0 +1,9 @@
+---
+title: Electoral Forecasting
+---
+
+[Electoral Poll Agregator](https://oddspointer.com/)
+
+<!--more-->
+
+

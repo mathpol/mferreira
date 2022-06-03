@@ -1,6 +1,6 @@
 ---
 file: data.json
-title: Recent works
+title: Academic papers
 type: recentwork
 weight: 2
 ---
